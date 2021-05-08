@@ -1,0 +1,2 @@
+# ispark
+ Boş Kapasite Tahminlemesi
